@@ -43,9 +43,9 @@ I’ve collaborated with top health brands including Amway, Vestige, Winfinith, 
 | ![](images/training7.jpg) | ![](images/training8.jpg) |
 | *One-on-One Counseling* | *Amway Product Showcase* |
 | ![](images/training9.jpg) | ![](images/training10.jpg) |
-| *Amway Hungama Event* | *Understanding Supplements* |
+| *Amway Nutrilite Event* | *Understanding Supplements* |
 | ![](images/training11.jpg) |  |
-| *Herbal Formulation – X-Tract F* |  |
+| *Herbal Formulations* |  |
 
 ---
 
