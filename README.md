@@ -1,5 +1,3 @@
-# (images/logo.jpg)
-
 ## Vishnu Priya  
 **Wellness Consultant | Nutritionist | Brand Strategist**
 
