@@ -1,4 +1,4 @@
-# ![Priya's Diet Logo](images/logo.jpg)
+# (images/logo.jpg)
 
 ## Vishnu Priya  
 **Wellness Consultant | Nutritionist | Brand Strategist**
