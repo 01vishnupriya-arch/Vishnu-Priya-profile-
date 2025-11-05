@@ -1,5 +1,3 @@
-# ![Priya's Diet]
-
 ## Vishnu Priya  
 **Wellness Consultant | Nutritionist | Brand Strategist**
 
