@@ -1,3 +1,5 @@
+# ![Priya's Diet Logo](images/logo.jpg)
+
 ## Vishnu Priya  
 **Wellness Consultant | Nutritionist | Brand Strategist**
 
@@ -39,11 +41,26 @@ I’ve collaborated with top health brands including Amway, Vestige, Winfinith, 
 | ![](images/training5.jpg) | ![](images/training6.jpg) |
 | *Omega-3 & Organ Health* | *School Nutrition Awareness* |
 | ![](images/training7.jpg) | ![](images/training8.jpg) |
-| *One-on-One Counseling* | *Vestige product Showcase* |
+| *One-on-One Counseling* | *Amway Product Showcase* |
 | ![](images/training9.jpg) | ![](images/training10.jpg) |
-| *Amway Nutrilite Event* | *Understanding Supplements* |
+| *Amway Hungama Event* | *Understanding Supplements* |
 | ![](images/training11.jpg) |  |
-| *Nutritional Formulations* |  |
+| *Herbal Formulation – X-Tract F* |  |
+
+---
+
+### 📰 Published Articles – E Behind Digital Magazine
+
+I’ve contributed health and nutrition articles to **E Behind**, a Tamil digital magazine with over 1.25 lakh readers. These publications blend scientific insight with cultural relevance to promote wellness awareness.
+
+| | |
+|---|---|
+| ![](images/article1.jpg) | ![](images/article2.jpg) |
+| *Are You Eating the Right Food?* | *Are You Drinking Enough Water?* |
+| ![](images/article3.jpg) | ![](images/article4.jpg) |
+| *Which Is the Best Cooking Oil?* | *Nutrition Awareness Feature – E Behind* |
+
+> 🗞 To subscribe to E Behind, send “Hai” to **7418575741** on WhatsApp.
 
 ---
 
@@ -63,4 +80,3 @@ I’ve collaborated with top health brands including Amway, Vestige, Winfinith, 
 ---
 
 © Vishnu Priya | Priya’s Diet | All rights reserved
-
